@@ -1,2 +1,0 @@
-class CourtsController < ApplicationController
-end

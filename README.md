@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can find a link to the front-end of this project here:
+https://github.com/ch2isk4kos/final-project-front-end
 
 Things you may want to cover:
 
